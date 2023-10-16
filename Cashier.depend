@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576702190 source:f:\uni\programming\project\cashier\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
